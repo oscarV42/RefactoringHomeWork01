@@ -38,6 +38,7 @@ body {
 }
 
 .header nav ul li {
+  margin-top: 5px;
   display: inline-block;
   margin-left: 25px;
 }
@@ -215,7 +216,4 @@ p {
   p {
     display: flex;
   }
-}
-
-@media screen and(max-width: 768px) {
 }
